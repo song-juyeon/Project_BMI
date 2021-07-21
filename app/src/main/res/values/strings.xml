@@ -5,5 +5,10 @@
     <string name="text_weight">체중: </string>
     <string name="text_height">신장: </string>
     <string name="result_title">BMI(체질량지수) 결과 화면</string>
+    <string name="bmi_comment1">귀하는 저체중이므로 정상체중을 위한 식단조절과 가벼운 유산소 운동을 추천드립니다.</string>
+    <string name="bmi_comment2">귀하는 정상체중이므로 정상체중을 유지하기 위한 식간조절과 일주일에 3회이상 유산소 운동을 추천드립니다.</string>
+    <string name="bmi_comment3">귀하는 과체중이므로 정상체중을 위한 저지방 식단과 일주일에 3회이상 유산소 운동과 근력운동을 추천드립니다.</string>
+    <string name="bmi_comment4">귀하는 비만이므로 정상체중을 위한 탄수화물의 양을 줄이는 식단과 매일 유산소 운동과 근력운동을 추천드립니다.</string>
+    <string name="bmi_comment5">귀하는 고도비만이므로 정상체중을 위한 탄수화물 양을 줄이는 저지방 식단과 유산소 운동과 근력운동을 추천드립니다.</string>
 
 </resources>
